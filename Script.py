@@ -1,12 +1,6 @@
 class script(object):
     START_TXT = """𝐘𝐨..𝐘𝐨.. {mention}🙋,
-I'm Powerful Movies - Search  Bot You Can Use Me As A Auto-filter Bot In Your Group ...
-
-Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓
-
-⚠️More Help Check Help Button Below
-
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href="http://t.me/ALLUKISHORE_OFFICIAL"> 🄰🄻🄻🅄🄺🄸🅂🄷🄾🅁🄴 </a>
+I'm Powerful Movies - Search  Bot You Can Use Me As A Auto-filter Bot In Your Group ...\n\nIts Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓\n\n\n⚠️More Help Check Help Button Below\n\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href="http://t.me/ALLUKISHORE_OFFICIAL"> 🄰🄻🄻🅄🄺🄸🅂🄷🄾🅁🄴 </a>
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
