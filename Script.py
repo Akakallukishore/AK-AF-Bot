@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """𝐘𝐨..𝐘𝐨.. {mention}🙋,
+    START_TXT = """𝐘𝐨..𝐘𝐨.. {}🙋,
 I'm Powerful Movies - Search  Bot You Can Use Me As A Auto-filter Bot In Your Group ...\n\nIts Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓\n\n\n⚠️More Help Check Help Button Below\n\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href="http://t.me/ALLUKISHORE_OFFICIAL"> 🄰🄻🄻🅄🄺🄸🅂🄷🄾🅁🄴 </a>
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
