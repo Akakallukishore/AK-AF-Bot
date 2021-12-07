@@ -23,7 +23,7 @@ I'm Powerful Movies - Search  Bot You Can Use Me As A Auto-filter Bot In Your Gr
 ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎 𝒏𝒐𝒕 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="t.me/@ALLU_KISHORE_OFFICIAL"> 𝙇𝙊𝙇!!! </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/ALLU_KISHORE_OFFICIAL"> 𝙇𝙊𝙇!!! </a>
 
 𝙎𝙐𝙋𝙋𝙊𝙍𝙏:
 <a href="http://t.me/ALLUKISHORE_OFFICIAL"> ⌠ AK ⌡ </a>"""
