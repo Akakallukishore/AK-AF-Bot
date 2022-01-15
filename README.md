@@ -1,4 +1,4 @@
-# ANNA_BEN_BOT
+# Mother Earth
 Very Sempil Bot Auto Filter bot
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𐌀𐌺𐌀ս𑀱꤀𐍆꤯꤈𑀱ꤕ꤅𐌱꤀𑀱-𝑩𝑶𝑻!;created+by+𝐓𝐞𝐚𝐦-𝐅𝐇𝐊𝐋!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
