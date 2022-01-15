@@ -8,7 +8,7 @@ class script(object):
 ᴛʜɪꜱ ʙᴏᴛ ᴀʙᴏᴜᴛ ᴍꜱɢ 
 
 ✯ ᴀʙᴏᴜᴛ ᴍꜱɢ
-✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
 ║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="http://t.me/AK_Auto_FilterBot">  AK⚡️Aᴜᴛᴏ Fɪʟᴛᴇʀ😎 </a>
@@ -23,7 +23,7 @@ class script(object):
 ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎 𝒏𝒐𝒕 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/ALLU_KISHORE_OFFICIAL"> 𝙇𝙊𝙇!!! </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/+SuKq6KMnVa4yZTJl"> [ F O O L ]  </a>
 
 𝙎𝙐𝙋𝙋𝙊𝙍𝙏:
 <a href="http://t.me/ALLUKISHORE_OFFICIAL"> ⌠ AK ⌡ </a>"""
