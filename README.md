@@ -5,7 +5,7 @@ Very Sempil Bot Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/87fd3f1437dbd06644b20.jpg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/anna-ben-repo)
+[![Deploy](https://telegra.ph/file/34b4447858eba5adcc481.jpg)](https://heroku.com/deploy?template=https://github.com/LionKettyUD/AK-AF-Bot-)
 
 - [x] Auto Filter
 - [x] Manuel Filter
@@ -22,7 +22,7 @@ Very Sempil Bot Auto Filter bot
 
 
 
-<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/LionKettyUD/LionKettyUD/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
 <a href="https://t.me/pro_editor_tg"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://t.me/PANDITHAN_SIR"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
