@@ -7,7 +7,7 @@ class script(object):
     ABOUT_TXT = """
 ᴛʜɪꜱ ʙᴏᴛ ᴀʙᴏᴜᴛ ᴍꜱɢ 
 
-╭━━━━━━━━━━━━━━━➣ 
+╭━━━━━━━━━━━━━━➣ 
 ┣⪼ Mʏ Nᴀᴍᴇ -  𝙰𝙺𝙰𝚞𝚝𝚘𝙵𝚒𝚕𝚝𝚎𝚛𝙱𝚘𝚝
 ┣⪼ ⒶⓀ -   <a href="https://t.me/AlluKishore_Official"> 🄰🄻🄻🅄🄺🄸🅂🄷🄾🅁🄴 </a>
 ┣⪼ Lɪʙʀᴀʀʀʏ - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -15,7 +15,7 @@ class script(object):
 ┣⪼ Dᴀᴛᴀ Bᴀsᴇ - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ┣⪼ Bᴏᴛ Sᴇʀᴠᴇʀ -  𝙷𝙴𝚁𝙾𝙺𝚄
 ┣⪼ Bᴜɪʟᴅ Pᴛᴀᴛᴜs - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
-╰━━━━━━━━━━━━━━━➣ """
+╰━━━━━━━━━━━━━━➣"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎 𝒏𝒐𝒕 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/+SuKq6KMnVa4yZTJl"> [ F O O L ]  </a>
