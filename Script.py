@@ -9,7 +9,7 @@ class script(object):
 𝙰𝙳𝚅𝙰𝙽𝚃𝙰𝙶𝙴𝚂 𝙾𝙵 𝙰𝙳𝙳𝙸𝙽𝙶 𝙼𝙴 
 ◈ 1𝙼+ 𝙼𝙾𝚅𝙸𝙴 𝙵𝙸𝙻𝙴𝚂 𝙰𝙳𝙳𝙴𝙳
 ◈ 𝚄𝙽𝙻𝙸𝙼𝙸𝚃𝙴𝙳 𝙵𝙸𝙻𝚃𝙴𝚁𝚂
-◈ 𝙹𝚄𝚂𝚃 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝙾𝚄𝚁 𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 <a href="http://t.me/Allukishore_OFFICIAL"> [ A K ] <\a>
+◈ 𝙹𝚄𝚂𝚃 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝙾𝚄𝚁 𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 <a href="http://t.me/Allukishore_OFFICIAL"> [ A K ] <\a>"
 
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href="http://t.me/Allu_Kishore_OFFICIAL"> 🄰🄻🄻🅄🄺🄸🅂🄷🄾🅁🄴 </a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
