@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙻𝙾 {mention},
+    START_TXT = """𝙷𝙴𝙻𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 𝙰𝙺𝙰𝚞𝚝𝚘𝙵𝚒𝚕𝚝𝚎𝚛𝙱𝚘𝚝 ,
 𝚃𝙷𝙴 𝙻𝙾𝙽𝙶 𝙽𝙸𝙶𝙷𝚃 𝙸𝚂 𝙲𝙾𝙼𝙸𝙽𝙶 
 
@@ -10,6 +10,7 @@ class script(object):
 ◈ 1𝙼+ 𝙼𝙾𝚅𝙸𝙴 𝙵𝙸𝙻𝙴𝚂 𝙰𝙳𝙳𝙴𝙳
 ◈ 𝚄𝙽𝙻𝙸𝙼𝙸𝚃𝙴𝙳 𝙵𝙸𝙻𝚃𝙴𝚁𝚂
 ◈ 𝙹𝚄𝚂𝚃 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝙾𝚄𝚁 𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 <a href="http://t.me/Allukishore_OFFICIAL"> [ A K ] <\a>
+
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href="http://t.me/Allu_Kishore_OFFICIAL"> 🄰🄻🄻🅄🄺🄸🅂🄷🄾🅁🄴 </a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
